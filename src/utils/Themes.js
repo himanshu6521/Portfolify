@@ -50,8 +50,8 @@ export const darkTheme = {
     text_secondary: "#A0A0A0",  // Secondary text color
     // card: "#4B0082",            // Dark purple card background color
     // card_light: "#551A8B",      // Slightly lighter card background color
-    card: "#1a1a40",       
-    card_light: '#090915', 
+    card: "#042f42",       
+    card_light: '#023544', 
     button: "#FF4081",          // Pink button color
     white: "#FFFFFF",           // White color
     black: "#000000",           // Black color
